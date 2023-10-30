@@ -1,3 +1,4 @@
+# Atualização em: 30/10/2023
 FROM n8nio/n8n:latest
 
 ARG PGPASSWORD
