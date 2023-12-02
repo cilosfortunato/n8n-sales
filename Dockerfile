@@ -1,5 +1,5 @@
-# Atualização em: 30/10/2023
-FROM n8nio/n8n:1.9.3
+# Atualização em: 02/12/2023
+FROM n8nio/n8n:1.19.4
 
 ARG PGPASSWORD
 ARG PGHOST
